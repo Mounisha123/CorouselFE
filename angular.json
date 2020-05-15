@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CarouselApp"
+    }
+  },
+  "defaultProject": "CarouselApp",
+  "cli": {
+    "analytics": false
+  }
 }
